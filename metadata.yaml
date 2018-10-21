@@ -1,5 +1,5 @@
 _repo: The-Amazing-Marriage-Volume-1_4483
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'English fiction -- 19th century'
 - !lcsh 'Marriage -- Fiction'
+- GITenberg
 title: The Amazing Marriage — Volume 1
 url: http://www.gutenberg.org/ebooks/4483
